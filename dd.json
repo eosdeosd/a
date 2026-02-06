@@ -104,7 +104,7 @@
 	"playurl": "https://vip.dyttzyplay.com/?url=",
 "categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","动作片","喜剧片","科幻片"]
 }, {
-	"key": "ikun资源,
+	"key": "ikun资源",
 	"name": "ikun资源",
 	"type": 0,
 	"api": "https://www.ikunzy.com/api.php/provide/vod/at/xml/",
