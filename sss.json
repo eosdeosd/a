@@ -41,15 +41,6 @@
 	"playurl": "https://svip.ffzyplay.com/?url=",
 "categories":["国产剧","香港剧","台湾剧","韩国剧","日本剧","动作片","喜剧片","科幻片"]
 },{
-	"key": "黑木耳资源",
-	"name": "A-黑木耳资源",
-	"type": 0,
-	"api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
-	"searchable": 1,
-	"quickSearch": 1,
-	"playurl": "https://hoplayer.com/index.html?url=",
-"categories":["国产剧","港剧","台剧","韩剧","日剧","动作片","喜剧片","科幻片"]	
-}, {
 	"key": "dr_qq",
 	"name": "腾讯(官)",
 	"type": 3,
@@ -73,12 +64,6 @@
 	"type": 3,
 	"api": "https://github.com/eosdeosd/a/raw/main/drpy2.min.js",
 	"ext": "https://github.com/eosdeosd/a/raw/main/jpys.js"
-}, {
-	"key": "欧乐影院",
-	"name": "欧乐影院",
-	"type": 3,
-	"api": "https://github.com/eosdeosd/a/raw/main/drpy2.min.js",
-	"ext": "https://github.com/eosdeosd/a/raw/main/oule.js"
 }, {
 	"key": "push_agent",
 	"name": "推送",
